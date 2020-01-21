@@ -1,6 +1,7 @@
 /**
  * @format
  * Surachart buachum
+ * BCOM
  */
 
 import {AppRegistry} from 'react-native';
